@@ -44,7 +44,7 @@ const INITIAL_PROPHETS = [
     title: 'La Patience et la Résilience',
     summary: 'Traverser les épreuves de l abandon et du puits pour atteindre la lumière.',
     full_story: 'Séparé de sa famille et jeté dans un puits par ses frères, Youssef garda une foi inébranlable...',
-    lessons: ['La patience porte toujours ses fruits', 'Le pardon libère l âme', 'Garder espoir en toutes circumstances']
+    lessons: ['La patience porte toujours ses fruits', 'Le pardon libère l âme', 'Garder espoir en toutes circonstances']
   },
   {
     id: 'p2',
